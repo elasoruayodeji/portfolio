@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayodex.dev/sitemap.xml
